@@ -11,3 +11,8 @@ I build production-ready, secure APIs that pass compliance reviews — input val
 ## Why this needs to exist
 
 A CV lists titles and bullet points but can't prove production-readiness. A portfolio shows the actual secure patterns, the before/after of a compliance gap closed, and the reasoning behind every security decision — things no resume can convey.
+
+
+### Portfolio 
+
+https://portfolio-showcase--janmuhammadjanw.replit.app/
